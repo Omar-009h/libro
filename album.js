@@ -5,7 +5,7 @@ new Vue({
         isOpenedTop: true,
         items: [
           {
-            img1: "/album/familia1.jpg",
+            img1: "/album/familia2.jpg",
             img2: "album/familia10.jpg",
             img3: "album/familia15.jpg",
             title: "Mama y Papa",
